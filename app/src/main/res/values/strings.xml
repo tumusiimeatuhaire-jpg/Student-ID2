@@ -2,7 +2,7 @@
     <string name="app_name">Student Card</string>
     <string name="student_name">ATUHAIRE TUMUSIIME</string>
     <string name="programme">BSc in Information Technology</string>
-    <string name="reg_number">25/2/314/W/2122</string>
+    <string name="reg_number">24/2/314/W/2122</string>
     <string name="issue_date">01/02/2026</string>
     <string name="expiry_date">01/02/2029</string>
 </resources>
